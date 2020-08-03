@@ -1,0 +1,47 @@
+{
+  "m": 0,
+  "length": 0,
+  "width": 0,
+  "height": 0,
+  "maxThrust": 0,
+  "sMidelya": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "centrVolume": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "hydrodynami—oef": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "inercApparat": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "posEngine1": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "posEngine2": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "posEngine3": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "posEngine4": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}
